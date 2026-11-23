@@ -1,0 +1,1 @@
+{"description":"One-Line Roast: writes a single roast line about the phone's face unlock to /output/entry.txt.","name":"roast-the-gadget","private":true,"type":"module","version":"1.0.0"}
